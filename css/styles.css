@@ -90,7 +90,7 @@
     --bg-btn:#F5F4FA;
 
 }
-p{
+.p-advantages{
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
@@ -98,6 +98,7 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 color: var(--gray);
 }
+
 
 /*определим оформление текста шапки и подвала*/
 .webstudio {
@@ -214,17 +215,22 @@ body {
     letter-spacing: 0.03em;
     color: var(--h-color)
 }
-.team-position {
+.p-position {
+    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.188;
     letter-spacing: 0.03em;
+    color: var(--gray);
+    
 }
 .portfolio-type{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
+    color: var(--gray);
+
 }
 .portfolio-name {
     font-weight: bold;
